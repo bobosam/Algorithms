@@ -1,0 +1,6 @@
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem06 ConnectedAreasInAMatrix\bin\Debug\Problem06 ConnectedAreasInAMatrix.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem06 ConnectedAreasInAMatrix\bin\Debug\Problem06 ConnectedAreasInAMatrix.exe
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem06 ConnectedAreasInAMatrix\bin\Debug\Problem06 ConnectedAreasInAMatrix.pdb
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem06 ConnectedAreasInAMatrix\obj\Debug\Problem06 ConnectedAreasInAMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem06 ConnectedAreasInAMatrix\obj\Debug\Problem06 ConnectedAreasInAMatrix.exe
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem06 ConnectedAreasInAMatrix\obj\Debug\Problem06 ConnectedAreasInAMatrix.pdb

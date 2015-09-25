@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\Variations-with-Repetition\bin\Debug\Variations-with-Repetition.exe.config
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\Variations-with-Repetition\bin\Debug\Variations-with-Repetition.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\Variations-with-Repetition\bin\Debug\Variations-with-Repetition.pdb
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\Variations-with-Repetition\obj\Debug\Variations-with-Repetition.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\Variations-with-Repetition\obj\Debug\Variations-with-Repetition.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\Variations-with-Repetition\obj\Debug\Variations-with-Repetition.pdb

@@ -1,0 +1,9 @@
+c:\users\bobo\documents\visual studio 2013\Projects\HomeworkRecursion\Problem01 TowerOfHanoi\bin\Debug\Problem01 TowerOfHanoi.exe.config
+c:\users\bobo\documents\visual studio 2013\Projects\HomeworkRecursion\Problem01 TowerOfHanoi\bin\Debug\Problem01 TowerOfHanoi.exe
+c:\users\bobo\documents\visual studio 2013\Projects\HomeworkRecursion\Problem01 TowerOfHanoi\bin\Debug\Problem01 TowerOfHanoi.pdb
+c:\users\bobo\documents\visual studio 2013\Projects\HomeworkRecursion\Problem01 TowerOfHanoi\obj\Debug\Problem01 TowerOfHanoi.exe
+c:\users\bobo\documents\visual studio 2013\Projects\HomeworkRecursion\Problem01 TowerOfHanoi\obj\Debug\Problem01 TowerOfHanoi.pdb
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem01 TowerOfHanoi\obj\Debug\Problem01 TowerOfHanoi.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\Algorithms\HomeworkRecursion\Problem01 TowerOfHanoi\bin\Debug\Problem01 TowerOfHanoi.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\Algorithms\HomeworkRecursion\Problem01 TowerOfHanoi\obj\Debug\Problem01 TowerOfHanoi.exe
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\Algorithms\HomeworkRecursion\Problem01 TowerOfHanoi\obj\Debug\Problem01 TowerOfHanoi.pdb

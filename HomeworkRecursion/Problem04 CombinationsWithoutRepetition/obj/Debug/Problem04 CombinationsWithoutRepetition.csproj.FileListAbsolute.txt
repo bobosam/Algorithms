@@ -1,0 +1,5 @@
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem04 CombinationsWithoutRepetition\bin\Debug\Problem04 CombinationsWithoutRepetition.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem04 CombinationsWithoutRepetition\bin\Debug\Problem04 CombinationsWithoutRepetition.exe
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem04 CombinationsWithoutRepetition\bin\Debug\Problem04 CombinationsWithoutRepetition.pdb
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem04 CombinationsWithoutRepetition\obj\Debug\Problem04 CombinationsWithoutRepetition.exe
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem04 CombinationsWithoutRepetition\obj\Debug\Problem04 CombinationsWithoutRepetition.pdb

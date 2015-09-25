@@ -1,0 +1,6 @@
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem05 PathsBetweenCellsInMatrix\bin\Debug\Problem05 PathsBetweenCellsInMatrix.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem05 PathsBetweenCellsInMatrix\bin\Debug\Problem05 PathsBetweenCellsInMatrix.exe
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem05 PathsBetweenCellsInMatrix\bin\Debug\Problem05 PathsBetweenCellsInMatrix.pdb
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem05 PathsBetweenCellsInMatrix\obj\Debug\Problem05 PathsBetweenCellsInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem05 PathsBetweenCellsInMatrix\obj\Debug\Problem05 PathsBetweenCellsInMatrix.exe
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem05 PathsBetweenCellsInMatrix\obj\Debug\Problem05 PathsBetweenCellsInMatrix.pdb

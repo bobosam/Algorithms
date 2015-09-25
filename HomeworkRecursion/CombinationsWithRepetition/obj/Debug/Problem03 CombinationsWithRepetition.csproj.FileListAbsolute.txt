@@ -1,0 +1,9 @@
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.pdb
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\CombinationsWithRepetition\obj\Debug\Problem03 CombinationsWithRepetition.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.exe
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.pdb
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\Algorithms\HomeworkRecursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\Algorithms\HomeworkRecursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.exe
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\Algorithms\HomeworkRecursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.pdb

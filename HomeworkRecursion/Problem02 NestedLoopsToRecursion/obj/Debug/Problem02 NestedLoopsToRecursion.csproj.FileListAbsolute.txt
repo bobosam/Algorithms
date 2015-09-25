@@ -1,0 +1,6 @@
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem02 NestedLoopsToRecursion\bin\Debug\Problem02 NestedLoopsToRecursion.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem02 NestedLoopsToRecursion\bin\Debug\Problem02 NestedLoopsToRecursion.exe
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem02 NestedLoopsToRecursion\bin\Debug\Problem02 NestedLoopsToRecursion.pdb
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem02 NestedLoopsToRecursion\obj\Debug\Problem02 NestedLoopsToRecursion.exe
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem02 NestedLoopsToRecursion\obj\Debug\Problem02 NestedLoopsToRecursion.pdb
+C:\Users\Bobo\Documents\Visual Studio 2013\Projects\HomeworkRecursion\Problem02 NestedLoopsToRecursion\obj\Debug\Problem02 NestedLoopsToRecursion.csprojResolveAssemblyReference.cache

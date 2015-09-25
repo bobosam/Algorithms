@@ -1,0 +1,5 @@
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe.config
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.pdb
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.pdb

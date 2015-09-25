@@ -1,0 +1,5 @@
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\VariationWithoutRepeticion\bin\Debug\VariationWithoutRepeticion.exe.config
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\VariationWithoutRepeticion\bin\Debug\VariationWithoutRepeticion.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\VariationWithoutRepeticion\bin\Debug\VariationWithoutRepeticion.pdb
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\VariationWithoutRepeticion\obj\Debug\VariationWithoutRepeticion.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\VariationWithoutRepeticion\obj\Debug\VariationWithoutRepeticion.pdb

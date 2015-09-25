@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2013\Projects\8QueensPuzzle\8QueensPuzzle\bin\Debug\8QueensPuzzle.exe.config
+c:\users\bobo\documents\visual studio 2013\Projects\8QueensPuzzle\8QueensPuzzle\bin\Debug\8QueensPuzzle.exe
+c:\users\bobo\documents\visual studio 2013\Projects\8QueensPuzzle\8QueensPuzzle\bin\Debug\8QueensPuzzle.pdb
+c:\users\bobo\documents\visual studio 2013\Projects\8QueensPuzzle\8QueensPuzzle\obj\Debug\8QueensPuzzle.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2013\Projects\8QueensPuzzle\8QueensPuzzle\obj\Debug\8QueensPuzzle.exe
+c:\users\bobo\documents\visual studio 2013\Projects\8QueensPuzzle\8QueensPuzzle\obj\Debug\8QueensPuzzle.pdb

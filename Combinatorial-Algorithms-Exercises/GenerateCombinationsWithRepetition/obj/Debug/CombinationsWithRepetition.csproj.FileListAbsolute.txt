@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\GenerateCombinationsWithRepetition\bin\Debug\GenerateCombinationsWithRepetition.exe.config
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\GenerateCombinationsWithRepetition\bin\Debug\GenerateCombinationsWithRepetition.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\GenerateCombinationsWithRepetition\bin\Debug\GenerateCombinationsWithRepetition.pdb
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\GenerateCombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\GenerateCombinationsWithRepetition\obj\Debug\GenerateCombinationsWithRepetition.exe
+c:\users\bobo\documents\visual studio 2013\Projects\Combinatorial-Algorithms-Exercises\GenerateCombinationsWithRepetition\obj\Debug\GenerateCombinationsWithRepetition.pdb
